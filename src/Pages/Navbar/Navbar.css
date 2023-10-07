@@ -1,0 +1,41 @@
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+}
+.nav ul{
+    display: flex;
+    flex-direction: row;
+}
+.nav ul{
+    list-style-type: none;
+    position: relative;
+    left: 7em;
+    
+}
+
+.links ul li{
+    
+    position: relative;
+    left: 2em;
+}
+
+.links a{
+    
+    left: 2em;
+    text-decoration: none;
+    color: black;
+    padding-left: 2em;
+}
+
+.nav-main img{
+    height: 3em;
+    width: 3em;
+    position: relative;
+     left: -12em ;
+}
+
+.nav-main,.links a{
+    background-color: #19398a;
+    color: #fff;
+}
+

@@ -1,0 +1,73 @@
+body{
+    overflow-y: hidden;
+   
+}
+
+table {
+    border-collapse: collapse;
+    width: 70%; 
+    margin: 0 auto;
+}
+
+/* Style for table rows */
+tr {
+    border: 1px solid white;
+}
+
+th {
+    background-color: #f2f2f2; 
+    border: 1px solid white;
+    padding: 0.5em;
+    text-align: center;
+}
+
+td {
+    border: 1px solid white;
+    padding: 0.5em;
+    text-align: center;
+    color: white;
+}
+
+.table-btn button {
+    background-color: green;
+    color: white;
+    border: 1px solid white;
+    padding: 0.2em 0.5em;
+    margin-left: 0.5em;
+}
+
+.table-del button {
+    background-color: red;
+    color: white;
+    border: 1px solid white;
+    padding: 0.2em 0.5em;
+    margin-left: 0.5em;
+}
+
+
+.read-main h1{
+    text-align: center;
+    color: white;
+}
+
+.read-main{
+    background-color: #071026;
+    height: 91.1vh ;
+    position: relative;
+    top: -1.35em;
+}
+.apiZero{
+    background-color: #071026;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: -1.3em;
+    height: 91.5vh;
+}
+.apiZero h3{
+    position: relative;
+    top: 15em;
+}
+button{
+    cursor: pointer ;
+}

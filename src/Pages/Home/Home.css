@@ -1,0 +1,15 @@
+.home-main{
+    background-color: #071026;
+    color: white;
+    height: 92vh !important;
+    position: relative;
+    top: -1.24em;
+}
+
+.home-main>h2{
+    text-align: center;
+}
+
+.home-links ul li{
+    list-style-type: none;
+}
